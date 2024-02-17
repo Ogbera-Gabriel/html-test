@@ -1,4 +1,3 @@
-To create a README file for the HTML structure you provided, you can outline the purpose of the webpage and provide instructions on how to navigate it. Here's an example:
 
 ---
 
